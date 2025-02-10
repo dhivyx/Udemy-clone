@@ -4,7 +4,7 @@ A fully responsive clone of the Udemy website, built using HTML and CSS. This pr
 
 🛠️ Technologies Used HTML: For the structure and layout of the web pages. CSS: For styling and responsive design.
 
-🚀 Live Demo Check out the live version of the project: Udemy Clone Demo (https://dhivyx.github.io/Udemy-clone-Project/)
+🚀 Live Demo Check out the live version of the project: Udemy Clone Demo (https://dhivyx.github.io/Udemy-clone/)
 
 📈 Responsive Design Mobile-First Approach: Designed with mobile users in mind and scales gracefully for larger screens. Media Queries: Used extensively for adaptability across various screen sizes.
 
